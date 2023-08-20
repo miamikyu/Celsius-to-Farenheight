@@ -25,34 +25,32 @@
     margin-bottom:20px;
 }
 .row{
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:#fff;
-    border-radius: 30px;
-    padding-left: 20px;
-    margin-bottom: 25px;
 }
 .row input{
     border: 0;
     outline: 0;
     background: #fff;
-    padding: 10px 25px;
+    color: #555;
+    padding: 5px 20px,5px;
     height: 60px;
     border-radius: 30px;
     flex: 1;
-    margin-right: 16px;
+    margin-right: 10px;
     font-size: 18px;
 }
 .row button{
     border: 0;
     outline: 0;
-    background: #ebfffc;
+    background: #fff;
     border-radius: 50%;
     width:60px;
     height: 60px;
     cursor: pointer;
 }
 .row button img{
-    width:80px;
+    width: 60px;
 }

@@ -54,3 +54,25 @@
 .row button img{
     width: 60px;
 }
+.row2 button{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: #20ffb8;
+    color: #fff;
+    font-size:16px;
+    cursor: pointer;
+    border-radius:40px;
+}
+.row2 h2{
+    border: 0;
+    outline: 0;
+    background: #fff;
+    color: #555;
+    padding: 20px 20px;
+    height: 60px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 5px;
+    font-size: 18px;
+}

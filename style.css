@@ -35,12 +35,12 @@
     outline: 0;
     background: #fff;
     color: #555;
-    padding: 5px 20px,5px;
+    padding: 16px 50px;
     height: 60px;
     border-radius: 30px;
     flex: 1;
     margin-right: 10px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .row button{
     border: 0;
@@ -64,15 +64,15 @@
     cursor: pointer;
     border-radius:40px;
 }
-.row2 h2{
-    border: 0;
-    outline: 0;
+.col{
+    display: flex;
+}
+.col h1{
     background: #fff;
     color: #555;
-    padding: 20px 20px;
-    height: 60px;
-    border-radius: 30px;
-    flex: 1;
-    margin-right: 5px;
-    font-size: 18px;
+    padding: 16px 50px;
+    height: 30px;
+    border-radius: 40px;
+    margin-right: 10px;
+    font-size: 16px;
 }
